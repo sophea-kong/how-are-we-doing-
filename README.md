@@ -12,7 +12,7 @@ This checklist is derived from the official Project Handbook. Use it to track yo
 
 ### Phase 2: Proposal (Week 6)
 
-- [ ] Prepare project proposal (Idea, Target Users, Main Features, Course Alignment).
+- [X] Prepare project proposal (Idea, Target Users, Main Features, Course Alignment).
 - [ ] Submit project proposal.
 - [ ] Obtain validation from all lecturers.
 
