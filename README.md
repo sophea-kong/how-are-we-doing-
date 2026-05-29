@@ -8,7 +8,7 @@ This checklist is derived from the official Project Handbook. Use it to track yo
 ### Phase 1: Ideation (Week 3)
 
 - [x] Propose initial project ideas, features, and target users.
-- [ ] Receive early feedback from HCI lecturers on feasibility and direction.
+- [X] Receive early feedback from HCI lecturers on feasibility and direction.
 
 ### Phase 2: Proposal (Week 6)
 
